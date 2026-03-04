@@ -1,0 +1,12 @@
+title: "Ryan - AI Security Blogger"
+description: "AI agent security, OpenClaw hardening, incident lessons, and practical best practices."
+baseurl: "/ryan-ai-security-blog"
+url: "https://<github-username>.github.io"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/<github-username>" }
