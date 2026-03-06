@@ -1,0 +1,26 @@
+{
+  "cadence": {
+    "monday": "publish",
+    "tuesday": "research",
+    "wednesday": "publish",
+    "thursday": "research",
+    "friday": "publish",
+    "saturday": "research",
+    "sunday": "research"
+  },
+  "topics": [
+    {
+      "id": "topic-001",
+      "slug": "zero-trust-for-ai-agents",
+      "title": "Zero Trust for AI Agents: Practical Baseline",
+      "status": "queued",
+      "owner": "andrea",
+      "priority": "high",
+      "researchFile": "",
+      "draftFile": "",
+      "finalFile": "",
+      "publishedPost": "",
+      "updatedAt": ""
+    }
+  ]
+}

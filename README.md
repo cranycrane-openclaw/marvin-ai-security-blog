@@ -19,6 +19,7 @@ GitHub Pages blog for AI agent security content.
 - `notes/` research notes
 - `content/` idea backlog + editorial calendar
 - `automation/` prompts/workflows for Ryan
+- `automation/pipeline/` structured Andrea → Marlin → Marek handoff
 
 ## Quick start
 1. Log in to GitHub CLI:
