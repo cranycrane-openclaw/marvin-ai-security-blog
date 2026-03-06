@@ -63,7 +63,11 @@ Example: `2026-03-10-zero-trust-for-ai-agents.research.md`
 
 ## Automation
 
-- GitHub Action: `.github/workflows/editorial-daily.yml`
+- OpenClaw cron jobs trigger agents daily:
+  - `ryan-research-days` (Tue/Thu/Sat/Sun 08:15 Europe/Prague)
+  - `ryan-publish-days-builder` (Mon/Wed/Fri 08:20 Europe/Prague)
+  - `ryan-publish-days-editor` (Mon/Wed/Fri 08:30 Europe/Prague)
+- GitHub Action: `.github/workflows/editorial-daily.yml` (09:05 UTC daily)
 - Runs daily and does three steps:
   1. `sync_state.py` — syncs `state.json` from files in `research/`, `drafts/`, `final/`
   2. `publish_from_final.py` — on Mon/Wed/Fri auto-publishes next `edited` topic to `_posts/`
