@@ -16,7 +16,9 @@ This pipeline is designed for the weekly cadence:
 - `drafts/` — article drafts prepared by **Marlin**
 - `final/` — final edited articles prepared by **Marek**
 - `templates/` — markdown templates for each stage
+- `daily/` — auto-generated daily task cards
 - `state.json` — queue + status tracking
+- `agents-playbook.md` — role contract for Andrea/Marlin/Marek
 
 ## File naming
 
@@ -58,6 +60,12 @@ Example: `2026-03-10-zero-trust-for-ai-agents.research.md`
 - `edited`
 - `published`
 - `blocked`
+
+## Automation
+
+- GitHub Action: `.github/workflows/editorial-daily.yml`
+- Runs daily and generates `daily/YYYY-MM-DD.md` based on cadence and current `state.json`
+- Can also be triggered manually via **workflow_dispatch**
 
 ## Coordination rule
 
