@@ -7,6 +7,10 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+exclude:
+  - automation
+  - content
+
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/cranycrane-openclaw" }
