@@ -26,14 +26,14 @@
       "id": "topic-002",
       "slug": "secure-mcp-integrations",
       "title": "Secure MCP Integrations: Threat Model and Hardening Checklist",
-      "status": "edited",
+      "status": "published",
       "owner": "andrea",
       "priority": "high",
       "researchFile": "automation/pipeline/research/2026-03-07-secure-mcp-integrations.research.md",
       "draftFile": "automation/pipeline/drafts/2026-03-11-secure-mcp-integrations.draft.md",
       "finalFile": "automation/pipeline/final/2026-03-11-secure-mcp-integrations.final.md",
-      "publishedPost": "",
-      "updatedAt": "2026-03-11T07:30:00Z"
+      "publishedPost": "_posts/2026-03-11-secure-mcp-integrations.md",
+      "updatedAt": "2026-03-11T12:08:04+01:00"
     },
     {
       "id": "topic-003",
