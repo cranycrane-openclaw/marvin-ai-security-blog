@@ -52,14 +52,14 @@
       "id": "topic-004",
       "slug": "openclaw-prompt-injection-defense-in-depth",
       "title": "OpenClaw Prompt Injection Defense in Depth",
-      "status": "drafted",
+      "status": "edited",
       "owner": "andrea",
       "priority": "high",
       "researchFile": "automation/pipeline/research/2026-03-10-openclaw-prompt-injection-defense-in-depth.research.md",
       "draftFile": "automation/pipeline/drafts/2026-03-18-openclaw-prompt-injection-defense-in-depth.draft.md",
-      "finalFile": "",
+      "finalFile": "automation/pipeline/final/2026-03-18-openclaw-prompt-injection-defense-in-depth.final.md",
       "publishedPost": "",
-      "updatedAt": "2026-03-18T07:20:00Z"
+      "updatedAt": "2026-03-18T07:30:00Z"
     },
     {
       "id": "topic-005",
