@@ -99,6 +99,19 @@
       "finalFile": "",
       "publishedPost": "",
       "updatedAt": "2026-03-21T07:15:00Z"
+    },
+    {
+      "id": "topic-008",
+      "slug": "sandboxing-code-executing-ai-agents",
+      "title": "Sandboxing Code-Executing AI Agents: Isolation, Egress Control, and Filesystem Guardrails",
+      "status": "researched",
+      "owner": "andrea",
+      "priority": "high",
+      "researchFile": "automation/pipeline/research/2026-03-22-sandboxing-code-executing-ai-agents.research.md",
+      "draftFile": "",
+      "finalFile": "",
+      "publishedPost": "",
+      "updatedAt": "2026-03-22T07:15:00Z"
     }
   ]
 }
