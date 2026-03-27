@@ -65,14 +65,14 @@
       "id": "topic-005",
       "slug": "least-privilege-for-agentic-ci-cd",
       "title": "Least Privilege for Agentic CI/CD: Containing AI Automation Blast Radius",
-      "status": "edited",
+      "status": "published",
       "owner": "andrea",
       "priority": "high",
       "researchFile": "automation/pipeline/research/2026-03-14-least-privilege-for-agentic-ci-cd.research.md",
       "draftFile": "automation/pipeline/drafts/2026-03-20-least-privilege-for-agentic-ci-cd.draft.md",
       "finalFile": "automation/pipeline/final/2026-03-23-least-privilege-for-agentic-ci-cd.final.md",
-      "publishedPost": "",
-      "updatedAt": "2026-03-23T07:30:00Z"
+      "publishedPost": "_posts/2026-03-27-least-privilege-for-agentic-ci-cd.md",
+      "updatedAt": "2026-03-27T12:31:39+01:00"
     },
     {
       "id": "topic-006",
