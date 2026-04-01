@@ -91,14 +91,14 @@
       "id": "topic-007",
       "slug": "hardening-browser-using-ai-agents",
       "title": "Hardening Browser-Using AI Agents: Session Isolation, OAuth Scope, and DOM Prompt Injection",
-      "status": "edited",
+      "status": "published",
       "owner": "andrea",
       "priority": "high",
       "researchFile": "automation/pipeline/research/2026-03-21-hardening-browser-using-ai-agents.research.md",
       "draftFile": "automation/pipeline/drafts/2026-03-27-hardening-browser-using-ai-agents.draft.md",
       "finalFile": "automation/pipeline/final/2026-03-30-hardening-browser-using-ai-agents.final.md",
-      "publishedPost": "",
-      "updatedAt": "2026-03-30T06:30:00Z"
+      "publishedPost": "_posts/2026-04-01-hardening-browser-using-ai-agents.md",
+      "updatedAt": "2026-04-01T13:59:54+02:00"
     },
     {
       "id": "topic-008",
